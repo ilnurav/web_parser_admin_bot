@@ -18,5 +18,5 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone [ваш репозиторий]
+   git clone https://github.com/ilnurav/web_parser_admin_bot.git
    cd [папка проекта]
