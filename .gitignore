@@ -51,8 +51,7 @@ logs/
 *~
 
 # Project-specific
-sites.xlsx
-config.ini
+*.docx
 /local/
 /data/
 /downloads/
